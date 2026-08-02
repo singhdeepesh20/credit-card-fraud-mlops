@@ -5,9 +5,9 @@ An end-to-end MLOps project for detecting fraudulent credit card transactions us
 ## Project Objectives
 
 * Build a robust fraud detection model for highly imbalanced transaction data.
-Implement a modular and scalable MLOps architecture.
-Track experiments and model performance using MLflow.
-Version datasets and pipelines using DVC.
-Automate the training pipeline for reproducibility.
-Deploy the trained model as a REST API.
-Monitor model performance and enable continuous improvement.
+* Implement a modular and scalable MLOps architecture.
+* Track experiments and model performance using MLflow.
+* Version datasets and pipelines using DVC.
+* Automate the training pipeline for reproducibility.
+* Deploy the trained model as a REST API.
+* Monitor model performance and enable continuous improvement.
