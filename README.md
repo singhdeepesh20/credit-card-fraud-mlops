@@ -2,7 +2,7 @@
 
 An end-to-end MLOps project for detecting fraudulent credit card transactions using machine learning. This repository demonstrates the complete machine learning lifecycle—from data ingestion to production-ready deployment—following industry-standard MLOps practices.
 
-## Project Objectives
+### Project Objectives
 
 * Build a robust fraud detection model for highly imbalanced transaction data.
 * Implement a modular and scalable MLOps architecture.
