@@ -10,5 +10,5 @@ An end-to-end MLOps project for detecting fraudulent credit card transactions us
 * Version datasets and pipelines using DVC.
 * Automate the training pipeline for reproducibility.
 * Deploy the trained model as a REST API.
-* Monitor model performance and 
+
 
