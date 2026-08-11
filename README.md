@@ -13,6 +13,8 @@ An end-to-end MLOps project for detecting fraudulent credit card transactions us
 * Monitor model performance and enable continuous improvement.
 
 
+### Workflow
+
 Business Problem
       ↓
 Data Sources
