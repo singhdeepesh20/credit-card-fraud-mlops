@@ -13,3 +13,43 @@ An end-to-end MLOps project for detecting fraudulent credit card transactions us
 * Monitor model performance and enable continuous improvement.
 
 
+Business Problem
+      ↓
+Data Sources
+      ↓
+Data Ingestion
+      ↓
+Data Lake
+      ↓
+Data Validation
+      ↓
+EDA + Cleaning
+      ↓
+Train/Test Split
+      ↓
+Preprocessing Pipeline
+      ↓
+Dataset Versioning
+      ↓
+Training + HPO
+      ↓
+Evaluation
+      ↓
+Experiment Tracking
+      ↓
+Model Registry
+      ↓
+CI/CD
+      ↓
+Docker
+      ↓
+Kubernetes / Cloud
+      ↓
+Model Serving API
+      ↓
+Monitoring + Logging
+      ↓
+Drift Detection
+      ↓
+Retraining
+      ↺
