@@ -15,6 +15,9 @@ An end-to-end MLOps project for detecting fraudulent credit card transactions us
 
 ### Workflow
 
+## Complete Industry Architecture
+
+```
 Business Problem
       ↓
 Data Sources
@@ -55,3 +58,8 @@ Drift Detection
       ↓
 Retraining
       ↺
+```
+
+---
+
+
