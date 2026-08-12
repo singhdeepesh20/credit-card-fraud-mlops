@@ -53,7 +53,6 @@ Retraining
       ↺
 ```
 
----
 The primary objective is not only to maximize classification performance, but to demonstrate how an ML system can be reliably developed, reproduced, deployed, monitored, and improved in production.
 
 
