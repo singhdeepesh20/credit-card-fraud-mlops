@@ -1,6 +1,6 @@
-### Credit Card Fraud Detection MLOps
+### Credit Card Fraud Detection — Production MLOps
 
-An end-to-end MLOps project for detecting fraudulent credit card transactions using machine learning. This repository demonstrates the complete machine learning lifecycle—from data ingestion to production-ready deployment—following industry-standard MLOps practices.
+An end-to-end, production-oriented machine learning system for detecting fraudulent credit card transactions, built with industry-standard MLOps practices for reproducibility, deployment, monitoring, and continuous improvement.
 
 ### Project Objectives
 
