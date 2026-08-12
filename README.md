@@ -2,18 +2,11 @@
 
 An end-to-end, production-oriented machine learning system for detecting fraudulent credit card transactions, built with industry-standard MLOps practices for reproducibility, deployment, monitoring, and continuous improvement.
 
-### Project Objectives
+#### Overview
 
-* Build a robust fraud detection model for highly imbalanced transaction data.
-* Implement a modular and scalable MLOps architecture.
-* Track experiments and model performance using MLflow.
-* Version datasets and pipelines using DVC.
-* Automate the training pipeline for reproducibility.
-* Deploy the trained model as a REST API.
-* Monitor model performance and enable continuous improvement.
+Credit card fraud detection is a highly imbalanced classification problem where fraudulent transactions represent only a small fraction of total transactions.
 
-
-### Workflow
+This project demonstrates how to take a machine learning solution beyond model training and build a reproducible, deployable, and monitorable ML system.
 
 ## Complete Industry Architecture
 
@@ -61,5 +54,6 @@ Retraining
 ```
 
 ---
+The primary objective is not only to maximize classification performance, but to demonstrate how an ML system can be reliably developed, reproduced, deployed, monitored, and improved in production.
 
 
