@@ -6,7 +6,7 @@ An end-to-end, production-oriented machine learning system for detecting fraudul
 
 Credit card fraud detection is a highly imbalanced classification problem where fraudulent transactions represent only a small fraction of total transactions.
 
-This project demonstrates how to take a machine learning solution beyond model training and build a reproducible, deployable, and monitorable ML system.
+This project demonstrates how to take a machine learning solution beyond model training and build a reproducible, deployable, and monitorable 
 
 #### Complete Industry Architecture
 
