@@ -8,6 +8,8 @@ Credit card fraud detection is a highly imbalanced classification problem where 
 
 This project demonstrates how to take a machine learning solution beyond model training and build a reproducible, deployable, and monitorable ML system 
 
+# concept
+
 #### Complete Industry Architecture
 
 ```
