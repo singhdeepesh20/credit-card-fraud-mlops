@@ -10,6 +10,8 @@ This project demonstrates how to take a machine learning solution beyond model t
 
 # concept
 
+live fraud detection
+
 #### Complete Industry Architecture
 
 ```
