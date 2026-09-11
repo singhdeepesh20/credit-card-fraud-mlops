@@ -1,4 +1,4 @@
-## Credit Card Fraud Detection — Production MLOps
+### Credit Card Fraud Detection — Production MLOps
 
 #### Complete Industry Architecture
 
